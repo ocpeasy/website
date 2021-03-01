@@ -10,6 +10,7 @@
   text-align: center;
   position: relative;
   overflow: hidden;
+  background-image: linear-gradient(to right bottom,rgba(21,7,231,.866667),rgba(43,29,237,.866667),rgba(59,44,243,.866667),rgba(71,56,253,.85098),rgba(83,68,255,.866667)),url('/img/data-center-bg.png');
 }
 
 @media screen and (max-width: 966px) {
