@@ -26,7 +26,7 @@ const features = [
     ),
   },
   {
-    title: 'Reproduce your application configuration across projects',
+    title: 'Reproduce your application(s) configuration(s) across projects',
     imageUrl: 'img/undraw_docusaurus_react.svg',
     description: (
       <>
