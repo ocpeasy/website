@@ -1,5 +1,5 @@
 module.exports = {
   someSidebar: {
-    Docusaurus: ['introduction'],
+    OCPeasy: ['introduction'],
   },
 };
