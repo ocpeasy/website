@@ -1,10 +1,15 @@
 ---
-id: doc1
-title: Style Guide
-sidebar_label: Style Guide
+id: introduction
+title: Get Started
+sidebar_label: Get Started
 slug: /
 ---
 
+# Pre-requisites
+
+# Installation
+
+<!-- 
 You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
 
 ## Markdown Syntax
@@ -200,4 +205,4 @@ This is a caution
 
 This is a warning
 
-:::
+::: -->
