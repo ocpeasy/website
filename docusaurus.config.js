@@ -28,6 +28,17 @@ module.exports = {
           position: 'right',
         },
       ],
+      algolia: {
+        apiKey: 'dbbff9bbbcd99241208ea6214ae5fdae',
+        indexName: 'ocpeasy',
+        // Optional: see doc section bellow
+        contextualSearch: true,
+  
+        // Optional: Algolia search parameters
+        searchParameters: {},
+  
+        //... other Algolia params
+      },
     },
     footer: {
       style: 'dark',
