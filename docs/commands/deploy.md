@@ -1,6 +1,6 @@
 ---
-id: deploy
-title: deploy
-sidebar_label: deploy
+id: deploy-stage
+title: deployStage
+sidebar_label: deployStage
 slug: /commands/deploy
 ---

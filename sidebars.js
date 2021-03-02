@@ -4,7 +4,7 @@ module.exports = {
     Commands: [
       'commands/scaffold',
       'commands/create-stage',
-      'commands/deploy',
+      'commands/deploy-stage',
       'commands/destroy'
     ],
     Templates: [
