@@ -5,11 +5,13 @@ sidebar_label: Supported Technologies
 slug: /template/supported-technologies
 ---
 
-- Python
+## Python
+
     - https://github.com/ocpeasy/ocpeasy-template-python-flask
 
-- nodeJS
+## nodeJS
+
     - https://github.com/ocpeasy/ocpeasy-template-typescript-fastify
 
-- R
+## R
     - https://github.com/ocpeasy/ocpeasy-template-rshiny-latest
