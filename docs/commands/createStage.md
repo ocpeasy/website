@@ -2,5 +2,5 @@
 id: create-stage
 title: createStage
 sidebar_label: createStage
-slug: /api/createStage
+slug: /commands/createStage
 ---
