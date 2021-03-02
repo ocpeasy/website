@@ -64,7 +64,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} OCPeasy by David Barrat`,
+      copyright: `Copyright © ${new Date().getFullYear()} OCPeasy`,
     },
   },
   presets: [
