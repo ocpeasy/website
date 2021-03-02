@@ -46,7 +46,7 @@ The scheme mustn't appear (`no http/https`)
 
 <img src='/img/create-stage/create-stage-ocp-route.png' class='shadow' />
 
-## Number of replicas (PoD)
+### Number of replicas (PoD)
 
 <img src='/img/create-stage/create-stage-ocp-replicas.png' class='shadow' />
 
