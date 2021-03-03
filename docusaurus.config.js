@@ -9,9 +9,9 @@ module.exports = {
   organizationName: 'ocpeasy', // Usually your GitHub org/user name.
   projectName: 'ocpeasy', // Usually your repo name.
   themeConfig: {
-    googleAnalytics: {
-      trackingID: 'p264179720',
-      anonymizeIP: false
+    gtag: {
+      trackingID: 'G-5YT7Y042ZY',
+      anonymizeIP: true
     },
     algolia: {
       apiKey: 'dbbff9bbbcd99241208ea6214ae5fdae',
