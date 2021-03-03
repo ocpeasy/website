@@ -59,8 +59,8 @@ Contains configuration stages for the deployment of your projects.
 
 #### templateMeta
 
-:::caution
-Don't change these parameters
+:::info
+These parameters are generated during project scaffolding step and aren't supposed to be updated.
 :::
 
 - `frameworkId`:
