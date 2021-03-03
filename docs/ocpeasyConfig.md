@@ -63,17 +63,17 @@ Contains configuration stages for the deployment of your projects.
 Don't change these parameters
 :::
 
-- frameworkId:
+- `frameworkId`:
     - template id being used
-- profile:
+- `profile`:
     - describes application profile and will generate respective
-- strategyId:
+- `strategyId`:
     - openshift version
-- technology:
+- `technology`:
     - technology used for the application
-- templateUri:
+- `templateUri`:
     - uri of template used to scaffold the application folder
-- version:
+- `version`:
     - branch/version of the template
 
 
