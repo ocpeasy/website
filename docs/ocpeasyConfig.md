@@ -7,6 +7,11 @@ slug: /ocpeasy-config
 
 ## `ocpeasy.yml` config
 
+:::info
+`ocpeasy.yml` is a configuration file generated during scaffolding process with parameters relative to your project (documented in detail below).
+:::
+
+
 ### Sample configuration
 
 ```yaml
