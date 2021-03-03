@@ -10,7 +10,7 @@ module.exports = {
   projectName: 'ocpeasy', // Usually your repo name.
   themeConfig: {
     googleAnalytics: {
-      trackingID: 'G-5YT7Y042ZY',
+      trackingID: 'p264179720',
       anonymizeIP: false
     },
     algolia: {
