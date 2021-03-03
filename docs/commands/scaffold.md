@@ -14,6 +14,12 @@ slug: /commands/scaffold
 ocpeasy scaffold
 ```
 
+#### with proxy
+
+```bash
+ocpeasy scaffold --proxy=http://acme.corp.net:3456
+```
+
 ## Steps
 
 ### Strategy selection

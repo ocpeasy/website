@@ -1,6 +1,9 @@
 module.exports = {
   someSidebar: {
-    OCPeasy: ['introduction'],
+    OCPeasy: [
+      'introduction',
+      'ocpeasy-config'
+    ],
     Templates: [
       "templates/introduction",
       "templates/technologies",
@@ -11,7 +14,7 @@ module.exports = {
       // 'commands/deploy-stage',
       // 'commands/destroy-stage'
     ],
-    OpenSource: [
+    'Open Source': [
       "contributing"
     ]
   },
