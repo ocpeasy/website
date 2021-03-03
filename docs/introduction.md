@@ -10,6 +10,9 @@ slug: /
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![PyPI download month](https://img.shields.io/pypi/dm/ocpeasy.svg)](https://pypi.python.org/pypi/ocpeasy/)
 ![](https://raw.githubusercontent.com/ocpeasy/ocpeasy/master/badges/coverage.svg)
+[![PyPI license](https://img.shields.io/pypi/l/ocpeasy.svg)](https://pypi.python.org/pypi/ocpeasy/)
+[![PyPI pyversions](https://img.shields.io/pypi/pyversions/ocpeasy.svg)](https://pypi.python.org/pypi/ocpeasy/)
+[![PyPI version fury.io](https://badge.fury.io/py/ocpeasy.svg)](https://pypi.python.org/pypi/ocpeasy/)
 
 OCPeasy CLI is an open-source software provisioning, configuration management, and application-deployment tool enabling infrastructure as code on OpenShift.
 
