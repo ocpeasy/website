@@ -22,9 +22,14 @@ It has been implemented with Python 3.8, fire, GitPython, PyYAML, simple-term-me
 - fire: https://github.com/google/python-fire
 - GitPython: https://gitpython.readthedocs.io/en/stable
 - PyYAML: https://pyyaml.org
+- simple-term-menu: https://pypi.org/project/simple-term-menu
 
 
-This library is consuming its metadata (such as templates, technologies) from git repositories.
+This library is consuming its metadata (such as templates, technologies) from git repositories. The process is documented in the templates section.
+
+:::note
+This project works on any Linux environment, macOS and Windows 10 (through Windows Subsystem for Linux for more details please refer to this link: https://docs.microsoft.com/en-us/windows/wsl/install-win10)
+:::
 
 ## Get Started
 
