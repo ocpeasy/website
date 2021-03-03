@@ -2,7 +2,7 @@
 id: deploy-stage
 title: deployStage
 sidebar_label: deployStage
-slug: /commands/deployStage
+slug: /commands/deploy-stage
 ---
 
 WIP:

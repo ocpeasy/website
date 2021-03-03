@@ -7,11 +7,12 @@ slug: /template/supported-technologies
 
 ## Python
 
-    - https://github.com/ocpeasy/ocpeasy-template-python-flask
+- https://github.com/ocpeasy/ocpeasy-template-python-flask
 
 ## nodeJS
 
-    - https://github.com/ocpeasy/ocpeasy-template-typescript-fastify
+- https://github.com/ocpeasy/ocpeasy-template-typescript-fastify
 
 ## R
-    - https://github.com/ocpeasy/ocpeasy-template-rshiny-latest
+
+- https://github.com/ocpeasy/ocpeasy-template-rshiny-latest

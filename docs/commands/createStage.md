@@ -2,7 +2,7 @@
 id: create-stage
 title: createStage
 sidebar_label: createStage
-slug: /commands/createStage
+slug: /commands/create-stage
 ---
 
 To use `createStage`, you need to be within an `ocpeasy.yml` project.

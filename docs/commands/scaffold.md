@@ -14,12 +14,6 @@ slug: /commands/scaffold
 ocpeasy scaffold
 ```
 
-#### with Proxy
-
-```bash
-ocpeasy scaffold --proxy=http://proxy.acme.corp:3456
-```
-
 ## Steps
 
 ### Strategy selection
