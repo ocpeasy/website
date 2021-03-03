@@ -64,7 +64,7 @@ Contains configuration stages for the deployment of your projects.
 
 #### templateMeta
 
-:::info
+:::note
 These parameters are generated during project scaffolding step and aren't supposed to be updated.
 :::
 
