@@ -9,7 +9,7 @@ import styles from './styles.module.css';
 const features = [
   {
     title: 'No-brainer Configuration',
-    imageUrl: 'img/undraw_docusaurus_mountain.svg',
+    imageUrl: 'img/undraw_dev_productivity_umsq.svg',
     description: (
       <>
         Install OCPeasy like any other Python package, in one command, for good.
@@ -18,7 +18,7 @@ const features = [
   },
   {
     title: 'Scaffold your app from a library of templates',
-    imageUrl: 'img/undraw_docusaurus_tree.svg',
+    imageUrl: 'img/undraw_towing_6yy4.svg',
     description: (
       <>
         A library of templates for various programming languages (Python, R, nodeJS, etc...) makes the deployment of applications easier.
@@ -27,7 +27,7 @@ const features = [
   },
   {
     title: 'Reproduce your application(s) configuration(s) across projects',
-    imageUrl: 'img/undraw_docusaurus_react.svg',
+    imageUrl: 'img/undraw_factory_dy0a.svg',
     description: (
       <>
         Once a project has been initialized with ocpeasy, you can manage different deployment targets from a single `ocpeasy.yml` file.
