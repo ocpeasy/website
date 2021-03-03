@@ -11,8 +11,8 @@ module.exports = {
     Commands: [
       'commands/scaffold',
       'commands/create-stage',
-      // 'commands/deploy-stage',
-      // 'commands/destroy-stage'
+      'commands/deploy-stage',
+      'commands/destroy-stage'
     ],
     'Open Source': [
       "contributing"

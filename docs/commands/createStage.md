@@ -5,6 +5,9 @@ sidebar_label: createStage
 slug: /commands/create-stage
 ---
 
+import CorporateProxyNote from './CorporateProxyNote.mdx'
+
+
 To use `createStage`, you need to be within an `ocpeasy.yml` project.
 
 <img src='/img/create-stage/ocpeasy-project.png' class='shadow' />
@@ -15,11 +18,7 @@ To use `createStage`, you need to be within an `ocpeasy.yml` project.
 ocpeasy createStage
 ```
 
-#### with Proxy
-
-```bash
-ocpeasy createStage --proxy=http://proxy.acme.corp:3456
-```
+<CorporateProxyNote />
 
 
 ## Steps
