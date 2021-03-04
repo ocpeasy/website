@@ -65,11 +65,18 @@ This repository corresponds to the place where your source code will live.
 
 Git credentials ID is secret ID in OpenShift required to access the repository where your project's source code will live.
 
-It can be either `basic auth` (username, password) and `ssh key`.
+It can be either `basic auth` (username, password) or `ssh key`.
+
+Here's a configuration example to create a secret to pull a git repository internally hosted with `username` and `password`, and a `.gitconfig` to specify git pull specific options. For instance, if you need to specify a combination of secret (username, password + CA options)
+
+In that case, the secret is being used within a corporate environment and gitlab is self-hosted with custom CA, it's possible to disable the SSL verification adding specific options to the .gitconfig file.
+
+<img src='/img/scaffold/gitlab-credential-id.png' class='shadow' />
+
+Then `gitlab-internal-id` will be the credential-id
 
 <img src='/img/scaffold/source-code-credential-id.png' class='shadow' />
 
-TODO: add screenshot OpenShift
 
 ### Project created
 
