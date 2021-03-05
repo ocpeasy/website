@@ -16,3 +16,7 @@ slug: /template/supported-technologies
 ## R
 
 - R 3.6.1 / RShiny https://github.com/ocpeasy/ocpeasy-template-rshiny-latest
+
+## Rust
+
+- Rust / Rocket https://github.com/ocpeasy/ocpeasy-template-rust-rocket
