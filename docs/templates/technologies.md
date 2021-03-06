@@ -15,7 +15,8 @@ slug: /template/supported-technologies
 
 ## R
 
-- R 3.6.1 / RShiny https://github.com/ocpeasy/ocpeasy-template-rshiny-latest
+- R latest / RShiny https://github.com/ocpeasy/ocpeasy-template-rshiny-latest
+- R latest / Plumber https://github.com/ocpeasy/ocpeasy-template-r-plumber
 
 ## Rust
 
