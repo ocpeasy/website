@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.ocpeasy.org/blog</id>
+    <id>https://ocpeasy.github.io/blog</id>
     <title>OCPeasy CLI Blog</title>
     <updated>2015-10-25T23:29:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://www.ocpeasy.org/blog"/>
+    <link rel="alternate" href="https://ocpeasy.github.io/blog"/>
     <subtitle>OCPeasy CLI Blog</subtitle>
-    <icon>https://www.ocpeasy.org/img/logo.ico</icon>
+    <icon>https://ocpeasy.github.io/img/logo.ico</icon>
 </feed>

@@ -4,8 +4,8 @@
   <ShortName>OCPeasy CLI</ShortName>
   <Description>Search OCPeasy CLI</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://www.ocpeasy.org/img/logo.ico</Image>
-  <Url type="text/html" method="get" template="https://www.ocpeasy.org/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://www.ocpeasy.org/opensearch.xml" />
-  <moz:SearchForm>https://www.ocpeasy.org</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://ocpeasy.github.io/img/logo.ico</Image>
+  <Url type="text/html" method="get" template="https://ocpeasy.github.io/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://ocpeasy.github.io/opensearch.xml" />
+  <moz:SearchForm>https://ocpeasy.github.io</moz:SearchForm>
 </OpenSearchDescription>
