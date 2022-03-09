@@ -1,13 +1,13 @@
 module.exports = {
   title: 'OCPeasy CLI',
   tagline: 'is an open-source software provisioning, configuration management, and application-deployment tool enabling infrastructure as code on OpenShift.',
-  url: 'https://www.ocpeasy.org',
+  url: 'https://ocpeasy.github.io',
   baseUrl: '/website/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/logo.ico',
   organizationName: 'ocpeasy', // Usually your GitHub org/user name.
-  projectName: 'ocpeasy', // Usually your repo name.
+  projectName: 'website', // Usually your repo name.
   themeConfig: {
     gtag: {
       trackingID: 'G-5YT7Y042ZY',
