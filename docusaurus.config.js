@@ -2,7 +2,7 @@ module.exports = {
   title: 'OCPeasy CLI',
   tagline: 'is an open-source software provisioning, configuration management, and application-deployment tool enabling infrastructure as code on OpenShift.',
   url: 'https://www.ocpeasy.org',
-  baseUrl: '/',
+  baseUrl: '/website/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/logo.ico',
